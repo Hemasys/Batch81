@@ -1,1 +1,2 @@
 created to file6
+addedlines to file6
